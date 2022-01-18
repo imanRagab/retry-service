@@ -13,3 +13,13 @@ call
 
 -  First one - implements arithmetic progression
 -  Second - implements geometric progression
+
+#### Setup Steps:
+#####  Install dependencies
+```
+$ npm i
+```
+#####  Run tests
+```
+$ npm test
+```
